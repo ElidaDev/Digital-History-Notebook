@@ -123,3 +123,9 @@ A screenshot of your repository's commit history on GitHub. To find this, naviga
 Be sure to answer the questions above as well.
 
 # Timeline: The Rise of the Internet.
+
+- 1960 ARPANET 
+- 1983 TCP/IP is adopted as the standard
+- 1991 The World wide web is launched 
+- 1996 The first social media platform was launched
+- 
