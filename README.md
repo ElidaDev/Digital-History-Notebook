@@ -23,22 +23,27 @@ In this file, research and write a short paragraph about her contributions to ea
 Create a second new file named alan-turing.md.
 In this file, research and write a short paragraph about his contributions to modern computer science. (Cite those sources!)
 In this README.md file, add two hyperlinks below to your new files. The links must be named "Ada Lovelace" and "Alan Turing" and must lead to the corresponding files you just created. (Hint you will need to research how to put in a link in markdown)
+[Ada Lovelace](ada-lovelace.md)
+[Alan Turing](alan-turing.md)
 Use git add . to stage both new files.
 Use git commit -m "Added pioneers Ada and Alan" to save these changes to your local notebook.
 Finally, use git push to publish your work to GitHub.
 Report Status:
 2.1: What two file names did you create?
-Answer:
+Answer: ada-lovelace.md,alan-turing.md
 2.2: What was your commit message?
-Answer:
+Answer: Added pioneers Ada and Alan
 Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
 Instructions:
 Go to your Digital-History-Notebook repository on GitHub.
 Edit the README.md file directly.
 At the bottom of the README.md file, add a new section titled Timeline: The Rise of the Internet.
+
 In this new section, add a brief, bulleted timeline (7 points) of major milestones, such as the creation of ARPANET, the invention of TCP/IP, or the launch of the World Wide Web. Be sure to include pictures as well (might need to figure out how to add a picture in markdown).
 Commit this change directly on GitHub with the message: "Added internet timeline".
+
+# START HERE ^^^^^^^^
 Return to your local machine's terminal.
 Use git pull to retrieve the timeline you created from your remote repository.
 Report Status:
@@ -116,3 +121,5 @@ When you have completed all assignments and answered all of the "Report Status" 
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
+
+# Timeline: The Rise of the Internet.
