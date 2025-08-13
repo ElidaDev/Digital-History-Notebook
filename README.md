@@ -65,7 +65,7 @@ Research and write a short paragraph about his role in the personal computer rev
 
 Create a second new file named steve-jobs.md. 
 Research and write a short paragraph about steve jobs role in user interface and consumer technology.
-# Completed Above
+
 In this README.md file, add two new hyperlinks below to the files you just created. The links must be named "Bill Gates" and "Steve Jobs" and must lead to the corresponding files.
 [Bill Gates](bill-gates.md)
 [Steve Jobs](steve-jobs.md)
@@ -90,15 +90,18 @@ Use git fetch to check for updates, then use git status to see what's different.
 Finally, use git pull to get your peer's feedback.
 Report Status:
 5.1: What did git status tell you after you ran git fetch?
-Answer:
+Answer: Your branch is up to date with 'origin/main'
 5.2: What command did you use to merge your peer's changes into your local notebook?
-Answer:
+Answer: git pull
+
 Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
 Instructions:
 On your local machine, create a new file named tim-berners-lee.md.
 In this file, research and write a short paragraph about his role in creating the World Wide Web.
+# Completed Above
 In this README.md file, add a hyperlink to this new file. The link should be named "Tim Berners-Lee".
+[Tim Berners-Lee](tim-berners-lee.md)
 Use git add . to stage the new file and the updated README.md.
 Use git commit -m "Added Tim Berners-Lee" to save these changes.
 Use git push to publish this final piece of research.
