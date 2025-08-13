@@ -99,7 +99,6 @@ With the internet's timeline now in your notebook, let's document one of its key
 Instructions:
 On your local machine, create a new file named tim-berners-lee.md.
 In this file, research and write a short paragraph about his role in creating the World Wide Web.
-# Completed Above
 In this README.md file, add a hyperlink to this new file. The link should be named "Tim Berners-Lee".
 [Tim Berners-Lee](tim-berners-lee.md)
 Use git add . to stage the new file and the updated README.md.
@@ -107,12 +106,13 @@ Use git commit -m "Added Tim Berners-Lee" to save these changes.
 Use git push to publish this final piece of research.
 Report Status:
 6.1: What was your commit message for this assignment?
-Answer:
+Answer: Added Tim Berners-Lee
 6.2: What command did you use to publish your work?
-Answer:
+Answer: git push
 Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
 Instructions:
+# Completed Above
 Go to your Digital-History-Notebook repository on GitHub.
 Edit the README.md file directly.
 At the very end of the file, add a new section titled Final Thoughts.
