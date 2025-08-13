@@ -124,8 +124,12 @@ Be sure to answer the questions above as well.
 
 # Timeline: The Rise of the Internet.
 
-- 1960 ARPANET 
+- 1960 ARPANET <img width="270" height="186" alt="image" src="https://github.com/user-attachments/assets/180db1d4-4ccb-445b-942b-54a2f89be034" />
+
 - 1983 TCP/IP is adopted as the standard
 - 1991 The World wide web is launched 
 - 1996 The first social media platform was launched
-- 
+- 1998 Google is launched<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/6ea9a9a3-1329-4358-8c0e-0532a462152a" />
+
+- 2005 Youtube Launched
+- 2020s Remote work is more prevelant
