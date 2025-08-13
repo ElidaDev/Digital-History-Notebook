@@ -150,3 +150,6 @@ Be sure to answer the questions above as well.
 - 1998 Google is launched<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/6ea9a9a3-1329-4358-8c0e-0532a462152a" />
 - 2005 Youtube Launched
 - 2020s Remote work is more prevelant
+
+# Final Thoughts
+I disliked the research and typing portion. I liked learning the concepts of git.
