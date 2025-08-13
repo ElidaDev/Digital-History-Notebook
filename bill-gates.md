@@ -1,0 +1,3 @@
+Bill Gates founded Microsoft. In 1975 Microsoft made Windows 1.0. Windows 95 launched with a UI and Start button. The xbox was made in 2001, and this helped push the gaming console industry. Microsoft Azure is a cloud computing platform that is helping push the industry forward. Bill gates also made advancements with other projects. Bill gates and his company are also investing in AI.
+
+https://technologymagazine.com/articles/lifetime-of-achievement-bill-gates

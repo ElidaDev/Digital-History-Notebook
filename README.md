@@ -42,27 +42,42 @@ At the bottom of the README.md file, add a new section titled Timeline: The Rise
 
 In this new section, add a brief, bulleted timeline (7 points) of major milestones, such as the creation of ARPANET, the invention of TCP/IP, or the launch of the World Wide Web. Be sure to include pictures as well (might need to figure out how to add a picture in markdown).
 Commit this change directly on GitHub with the message: "Added internet timeline".
-
-# START HERE ^^^^^^^^
 Return to your local machine's terminal.
 Use git pull to retrieve the timeline you created from your remote repository.
 Report Status:
 3.1: What command did you use to retrieve the new information from GitHub?
-Answer:
+Answer: git pull
+
+
+
+
+
+
 Assignment 4: The Modern Era
+
 Now, let's add two more influential figures who shaped the modern era of computing.
+
 Instructions:
-On your local machine, create a new file named bill-gates.md. Research and write a short paragraph about his role in the personal computer revolution.
-Create a second new file named steve-jobs.md. Research and write a short paragraph about his role in user interface and consumer technology.
+
+
+On your local machine, create a new file named bill-gates.md.
+Research and write a short paragraph about his role in the personal computer revolution.
+
+Create a second new file named steve-jobs.md. 
+Research and write a short paragraph about steve jobs role in user interface and consumer technology.
+# Completed Above
 In this README.md file, add two new hyperlinks below to the files you just created. The links must be named "Bill Gates" and "Steve Jobs" and must lead to the corresponding files.
+[Bill Gates](bill-gates.md)
+[Steve Jobs](steve-jobs.md)
 Use git add . to stage the new files and the updated README.md.
 Use git commit -m "Added modern innovators" to save your work.
 Use git push to publish your changes.
+
 Report Status:
 4.1: What command did you use to save your changes to your local notebook?
-Answer:
+Answer: git add *
 4.2: What command did you use to publish your changes to the remote repository?
-Answer:
+Answer: git push
 Assignment 5: Peer Review
 Your classmates are now reviewing your work. A peer has left a suggestion for one of your files.
 Instructions:
@@ -130,6 +145,5 @@ Be sure to answer the questions above as well.
 - 1991 The World wide web is launched 
 - 1996 The first social media platform was launched
 - 1998 Google is launched<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/6ea9a9a3-1329-4358-8c0e-0532a462152a" />
-
 - 2005 Youtube Launched
 - 2020s Remote work is more prevelant
